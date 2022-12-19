@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
+title: aaaachai
+subtitle: '学习记录'
+description: '主要学习c++'
+keywords: c++
 author: John Doe
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
